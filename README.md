@@ -12,7 +12,7 @@
 
 ---
 
-A hands-on collection of classic Machine Learning algorithms — implemented step by step in Jupyter notebooks, with real datasets and animated visualizations. No black boxes. No magic. Just code, math, and curiosity.
+A hands-on collection of classic Machine Learning algorithms — implemented step by step in Jupyter notebooks, with real datasets . No black boxes. No magic. Just code, math, and curiosity.
 
 </div>
 
@@ -26,43 +26,7 @@ This repo is a personal playground for learning Machine Learning by doing. Each 
 > Linear Regression · Logistic Regression · K-Nearest Neighbors · Decision Tree · Random Forest · Support Vector Machine · Naive Bayes · K-Means Clustering · XGBoost
 
 🔹 **6 Real Datasets** — clean, ready-to-use `.csv` files for training and testing each model.
-
-🔹 **8 Animated GIFs** — visual demonstrations of how each algorithm learns, splits, clusters, or converges — because sometimes a picture (or a GIF) is worth a thousand equations.
-
 ---
-
-## 📁 File Structure
-
-```text
-.
-├── datasets/
-│   ├── Iris.csv
-│   ├── Linear Regression.csv
-│   ├── Mall_Customers.csv
-│   ├── Social_Network_Ads.csv
-│   ├── diabetes.csv
-│   └── play_tennis.csv
-├── GIF/
-│   ├── decision_tree.gif
-│   ├── kmeans.gif
-│   ├── knn.gif
-│   ├── linear_regression.gif
-│   ├── logistic_regression.gif
-│   ├── naive_bayes.gif
-│   ├── random_forest.gif
-│   └── svm.gif
-├── Decision_Tree.ipynb
-├── KNN_Classification.ipynb
-├── Linear_Regression.ipynb
-├── README.md
-├── SVM_From.ipynb
-├── k-means.ipynb
-├── logistic_regression.ipynb
-├── naive_bayes.ipynb
-├── random_forest.ipynb
-└── xgboost_from_scratch.ipynb
-```
-
 ---
 
 ## 📋 Algorithms Covered
