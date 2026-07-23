@@ -43,6 +43,11 @@ This repo is a personal playground for learning Machine Learning by doing. Each 
 | `k-means.ipynb` | 🔵 K-Means Clustering | `Mall_Customers.csv` | Clustering |
 | `xgboost_from_scratch.ipynb` | 🚀 XGBoost (from scratch) | `diabetes.csv` | Ensemble / Boosting |
 
+
+<p align="center">
+  <img src="./Screenshot%202026-07-23%20155219.png" alt="Algorithms Covered" width="100%">
+</p>
+
 ---
 
 ## 💡 Purpose / Motivation
